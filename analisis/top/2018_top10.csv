@@ -1,0 +1,11 @@
+,name,in_degree,name,out_degree,name,cluster_coe,name,totalExportValue,name,totalImportValue,name,selectedExportValue,name,selectedImportValue
+0,United States of America,185,Russian Federation,65,Comoros,0.9654654654654654,China,2680456171669.0,European Union,1964157688107.0,United States of America,3907450184.0,Chinese Taipei,1643945000.0
+1,China,185,Viet Nam,65,Somalia,0.9628048780487805,United States of America,1273162087663.0,China,807335965923.0,Turkey,3284040571.0,European Union,480747978.0
+2,Thailand,185,Bangladesh,65,Sao Tomé and Principe,0.9612903225806452,Japan,708436016183.0,"Hong Kong, China",373594395022.0,Morocco,2454165353.0,Cuba,207617780.0
+3,Canada,184,United Arab Emirates,65,Saint Lucia,0.96,"Korea, Republic of",638496360031.0,Canada,334381994817.0,South Africa,2416656566.0,Philippines,185029230.0
+4,Mexico,184,Turkey,65,Uzbekistan,0.9599303135888502,Chinese Taipei,603568289825.0,"Korea, Republic of",268840552240.0,Peru,1928353517.0,Indonesia,176456867.0
+5,Chinese Taipei,183,Argentina,64,Tajikistan,0.9596638655462185,Russian Federation,407920461554.0,Mexico,237175899800.0,Costa Rica,1872396182.0,United States of America,78214871.0
+6,Singapore,183,Brazil,64,Bhutan,0.9572649572649573,Germany,405295044192.0,Japan,207787471831.0,China,1871182156.0,China,45882762.0
+7,"Korea, Republic of",182,Canada,64,Samoa,0.9572649572649573,Malaysia,399035088909.0,Singapore,194496360197.0,Chile,1817246856.0,Nicaragua,17830796.0
+8,New Zealand,181,Chile,64,Montenegro,0.9563279857397504,Canada,335832356750.0,Chinese Taipei,156067044000.0,Ecuador,1549188678.0,Rwanda,14123895.0
+9,Australia,181,Malaysia,64,Equatorial Guinea,0.9557057057057057,Mexico,312503647614.0,Thailand,114086268228.0,Colombia,1433764566.0,Nigeria,13917858.0

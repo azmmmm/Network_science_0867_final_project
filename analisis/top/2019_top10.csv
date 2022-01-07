@@ -1,0 +1,11 @@
+,name,in_degree,name,out_degree,name,cluster_coe,name,totalExportValue,name,totalImportValue,name,selectedExportValue,name,selectedImportValue
+0,Canada,185,Brazil,56,Comoros,0.953333333,China,1.49696E+12,European Union,1.44595E+12,United States of America,10136057401,Japan,24612035214
+1,United States of America,185,China,56,Libya,0.951724138,United States of America,7.27962E+11,United States of America,8.9183E+11,China,6916551100,"Korea, Republic of",9496096298
+2,"Korea, Republic of",184,India,56,Bhutan,0.947692308,Japan,2.93365E+11,Japan,3.72628E+11,Australia,4202102978,Singapore,2958249543
+3,Singapore,184,Indonesia,56,Burundi,0.946572581,Canada,2.67476E+11,Singapore,1.41754E+11,Thailand,2994201225,Philippines,2361477388
+4,Japan,182,Malaysia,56,Sao Tomé and Principe,0.945887446,Mexico,2.5738E+11,Canada,1.16214E+11,Canada,2087132154,Kazakhstan,1325535502
+5,New Zealand,181,Mexico,56,Somalia,0.942540323,Germany,2.37254E+11,"Korea, Republic of",77836512562,Brazil,2058000680,Jordan,1051751735
+6,Thailand,181,Pakistan,56,Central African Republic,0.939495798,Russian Federation,2.00104E+11,Thailand,73026521109,Philippines,1337180922,Israel,833069000
+7,Australia,180,Viet Nam,56,Maldives,0.938461538,Malaysia,1.78344E+11,Israel,44154198000,Spain,1250203333,European Union,490888392
+8,Ukraine,179,Turkey,56,Yemen,0.935897436,India,1.42442E+11,Australia,41856979497,Mexico,1239041152,Côte d'Ivoire,215766682
+9,South Africa,178,Bangladesh,56,Djibouti,0.934472934,Thailand,1.37504E+11,Norway,38365063888,Netherlands,1237685073,Senegal,161151086

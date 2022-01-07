@@ -1,0 +1,224 @@
+code,iso3A,name,displayOrder
+004,AFG,Afghanistan,10
+008,ALB,Albania,40
+012,DZA,Algeria,50
+016,ASM,American Samoa,70
+020,AND,Andorra,90
+024,AGO,Angola,100
+660,AIA,Anguilla,110
+028,ATG,Antigua and Barbuda,130
+032,ARG,Argentina,140
+051,ARM,Armenia,150
+533,ABW,"Aruba, the Netherlands with respect to",160
+036,AUS,Australia,200
+040,AUT,Austria,220
+031,AZE,Azerbaijan,230
+044,BHS,Bahamas,250
+048,BHR,"Bahrain, Kingdom of",260
+050,BGD,Bangladesh,270
+052,BRB,Barbados,280
+112,BLR,Belarus,290
+056,BEL,Belgium,300
+058,BLX,Belgium-Luxembourg,310
+084,BLZ,Belize,320
+204,BEN,Benin,340
+060,BMU,Bermuda,350
+064,BTN,Bhutan,360
+068,BOL,"Bolivia, Plurinational State of",380
+070,BIH,Bosnia and Herzegovina,390
+072,BWA,Botswana,400
+076,BRA,Brazil,420
+096,BRN,Brunei Darussalam,440
+100,BGR,Bulgaria,450
+854,BFA,Burkina Faso,460
+108,BDI,Burundi,480
+132,CPV,Cabo Verde,485
+116,KHM,Cambodia,490
+120,CMR,Cameroon,500
+124,CAN,Canada,510
+136,CYM,Cayman Islands,560
+140,CAF,Central African Republic,590
+148,TCD,Chad,650
+152,CHL,Chile,660
+156,CHN,China,670
+170,COL,Colombia,700
+174,COM,Comoros,760
+178,COG,Congo,770
+184,COK,Cook Islands,780
+188,CRI,Costa Rica,800
+384,CIV,Côte d'Ivoire,810
+191,HRV,Croatia,820
+192,CUB,Cuba,830
+531,CUW,Curaçao,850
+196,CYP,Cyprus,870
+203,CZE,Czech Republic,890
+180,COD,Democratic Republic of the Congo,920
+208,DNK,Denmark,930
+262,DJI,Djibouti,980
+212,DMA,Dominica,990
+214,DOM,Dominican Republic,1000
+218,ECU,Ecuador,1110
+818,EGY,Egypt,1120
+222,SLV,El Salvador,1130
+226,GNQ,Equatorial Guinea,1140
+232,ERI,Eritrea,1150
+233,EST,Estonia,1160
+748,SWZ,Eswatini,1165
+231,ETH,Ethiopia,1170
+918,EEC,European Union,1240
+234,FRO,Faeroe Islands,1270
+242,FJI,Fiji,1290
+246,FIN,Finland,1300
+250,FRA,France,1310
+258,PYF,French Polynesia,1370
+260,ATF,French Southern Territories,1380
+266,GAB,Gabon,1400
+270,GMB,The Gambia,1405
+268,GEO,Georgia,1410
+276,DEU,Germany,1430
+288,GHA,Ghana,1450
+292,GIB,Gibraltar,1460
+300,GRC,Greece,1470
+304,GRL,Greenland,1480
+308,GRD,Grenada,1490
+316,GUM,Guam,1510
+320,GTM,Guatemala,1520
+324,GIN,Guinea,1530
+624,GNB,Guinea-Bissau,1540
+328,GUY,Guyana,1550
+332,HTI,Haiti,1560
+340,HND,Honduras,1590
+344,HKG,"Hong Kong, China",1600
+348,HUN,Hungary,1610
+352,ISL,Iceland,1620
+356,IND,India,1630
+360,IDN,Indonesia,1640
+364,IRN,Iran,1650
+368,IRQ,Iraq,1660
+372,IRL,Ireland,1670
+376,ISR,Israel,1680
+380,ITA,Italy,1690
+388,JAM,Jamaica,1700
+392,JPN,Japan,1710
+400,JOR,Jordan,1720
+398,KAZ,Kazakhstan,1730
+404,KEN,Kenya,1740
+296,KIR,Kiribati,1750
+408,PRK,"Korea, Democratic People's Republic of",1760
+410,KOR,"Korea, Republic of",1770
+414,KWT,"Kuwait, the State of",1780
+417,KGZ,Kyrgyz Republic,1790
+418,LAO,Lao People's Democratic Republic,1800
+428,LVA,Latvia,1820
+422,LBN,Lebanese Republic,1840
+426,LSO,Lesotho,1850
+430,LBR,Liberia,1860
+434,LBY,Libya,1870
+440,LTU,Lithuania,1890
+442,LUX,Luxembourg,1900
+446,MAC,"Macao, China",1910
+450,MDG,Madagascar,1920
+454,MWI,Malawi,1930
+458,MYS,Malaysia,1950
+462,MDV,Maldives,1960
+466,MLI,Mali,1970
+470,MLT,Malta,1980
+584,MHL,Marshall Islands,1990
+478,MRT,Mauritania,2010
+480,MUS,Mauritius,2020
+175,MYT,Mayotte,2030
+484,MEX,Mexico,2050
+583,FSM,"Micronesia, Federated States of",2060
+498,MDA,"Moldova, Republic of",2090
+496,MNG,Mongolia,2110
+893,MNE,Montenegro,2120
+500,MSR,Montserrat,2130
+504,MAR,Morocco,2140
+508,MOZ,Mozambique,2150
+104,MMR,Myanmar,2160
+516,NAM,Namibia,2170
+520,NRU,Nauru,2180
+524,NPL,Nepal,2190
+528,NLD,Netherlands,2200
+530,ANT,Netherlands Antilles,2210
+532,,Netherlands Antilles (incl. Aruba),2211
+540,NCL,New Caledonia,2230
+554,NZL,New Zealand,2240
+558,NIC,Nicaragua,2260
+562,NER,Niger,2270
+566,NGA,Nigeria,2280
+570,NIU,Niue,2290
+807,MKD,North Macedonia,2335
+580,MNP,Northern Mariana Islands,2340
+578,NOR,Norway,2360
+512,OMN,Oman,2390
+586,PAK,Pakistan,2490
+585,PLW,Palau,2500
+275,PSE,Palestine,2510
+591,PAN,Panama,2520
+598,PNG,Papua New Guinea,2540
+600,PRY,Paraguay,2550
+604,PER,Peru,2560
+608,PHL,Philippines,2570
+616,POL,Poland,2590
+620,PRT,Portugal,2600
+634,QAT,Qatar,2620
+642,ROM,Romania,2650
+643,RUS,Russian Federation,2660
+646,RWA,Rwanda,2670
+659,KNA,Saint Kitts and Nevis,2690
+662,LCA,Saint Lucia,2700
+534,SXM,Saint Martin,2710
+666,SPM,Saint Pierre and Miquelon,2720
+670,VCT,Saint Vincent and the Grenadines,2730
+882,WSM,Samoa,2740
+678,STP,Sao Tomé and Principe,2760
+682,SAU,"Saudi Arabia, Kingdom of",2770
+686,SEN,Senegal,2780
+892,SRB,Serbia,2790
+690,SYC,Seychelles,2810
+694,SLE,Sierra Leone,2820
+702,SGP,Singapore,2830
+703,SVK,Slovak Republic,2840
+705,SVN,Slovenia,2850
+090,SLB,Solomon Islands,2860
+706,SOM,Somalia,2870
+710,ZAF,South Africa,2890
+728,SSD,South Sudan,2950
+724,ESP,Spain,3010
+144,LKA,Sri Lanka,3020
+736,SDN,Sudan,3040
+740,SUR,Suriname,3050
+752,SWE,Sweden,3080
+756,CHE,Switzerland,3090
+760,SYR,Syrian Arab Republic,3100
+158,CHT,Chinese Taipei,3110
+762,TJK,Tajikistan,3120
+834,TZA,Tanzania,3130
+764,THA,Thailand,3140
+626,TLS,Timor-Leste,3170
+768,TGO,Togo,3180
+772,TKL,Tokelau,3190
+776,TON,Tonga,3200
+780,TTO,Trinidad and Tobago,3220
+788,TUN,Tunisia,3240
+792,TUR,Turkey,3250
+795,TKM,Turkmenistan,3260
+796,TCA,Turks and Caicos Islands,3270
+798,TUV,Tuvalu,3280
+800,UGA,Uganda,3310
+804,UKR,Ukraine,3320
+784,ARE,United Arab Emirates,3340
+826,GBR,United Kingdom,3360
+840,USA,United States of America,3380
+888,,UNMIK/Kosovo,3390
+858,URY,Uruguay,3420
+860,UZB,Uzbekistan,3430
+548,VUT,Vanuatu,3440
+862,VEN,"Venezuela, Bolivarian Republic of",3460
+704,VNM,Viet Nam,3470
+092,VGB,"Virgin Islands, British",3490
+876,WLF,Wallis and Futuna Islands,3510
+887,YEM,Yemen,3620
+894,ZMB,Zambia,3670
+716,ZWE,Zimbabwe,3690

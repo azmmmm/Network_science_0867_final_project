@@ -1,0 +1,11 @@
+,name,in_degree,name,out_degree,name,cluster_coe,name,totalExportValue,name,totalImportValue,name,selectedExportValue,name,selectedImportValue
+0,United States of America,184,Pakistan,74,Turkmenistan,1,China,2.15689E+12,United States of America,8.51531E+11,United States of America,12803765291,European Union,16103122746
+1,Canada,184,Russian Federation,74,Samoa,0.958669355,United States of America,1.19072E+12,European Union,7.08422E+11,China,5334989652,Canada,10176246294
+2,China,184,Turkey,74,Grenada,0.95766129,Japan,5.57686E+11,"Hong Kong, China",3.70857E+11,Chile,2703093119,China,9954276690
+3,"Korea, Republic of",183,"Korea, Republic of",73,Papua New Guinea,0.952564103,Germany,4.19054E+11,Mexico,3.51646E+11,Netherlands,2037792091,India,6792954533
+4,Mexico,182,Malaysia,73,South Sudan,0.952380952,Chinese Taipei,3.5848E+11,"Korea, Republic of",1.96632E+11,Costa Rica,1857844866,"Korea, Republic of",3835077238
+5,Singapore,182,Mexico,73,Iraq,0.95,"Korea, Republic of",3.20447E+11,Singapore,1.96421E+11,Ecuador,1683905820,"Saudi Arabia, Kingdom of",3034465295
+6,Thailand,182,Netherlands,73,Saint Lucia,0.949197861,Malaysia,2.78339E+11,Canada,1.70728E+11,India,1548445245,Mexico,2454928319
+7,Australia,182,New Zealand,73,Tonga,0.945887446,Viet Nam,2.00274E+11,Japan,93242979482,Colombia,1472669474,Thailand,2171741648
+8,Chinese Taipei,181,Philippines,73,Timor-Leste,0.944827586,Thailand,1.86632E+11,Thailand,92330699450,Argentina,1347255670,Singapore,1819490405
+9,Brazil,179,Poland,73,Bhutan,0.944523471,Italy,1.86121E+11,China,74283172305,Italy,1109342313,Norway,1633455650

@@ -1,0 +1,11 @@
+,name,in_degree,name,out_degree,name,cluster_coe,name,totalExportValue,name,totalImportValue,name,selectedExportValue,name,selectedImportValue
+0,Thailand,185,Turkey,97,South Sudan,0.964367816091954,China,1810542184753.0,China,2446706178669.0,United States of America,35681166840.0,Japan,26337531514.0
+1,United States of America,185,Viet Nam,97,Bhutan,0.9606775559588627,United States of America,813579858960.0,United States of America,1870739418648.0,China,23358670540.0,United States of America,22728675635.0
+2,Canada,185,Netherlands,96,Turkmenistan,0.9566145092460882,Japan,370600022754.0,European Union,1482938862769.0,Mexico,19561118613.0,Canada,10392265021.0
+3,China,185,Poland,96,Sao Tomé and Principe,0.952922077922078,"Korea, Republic of",282289754258.0,Japan,1042855766826.0,Brazil,8783604414.0,"Korea, Republic of",9496096307.0
+4,Chinese Taipei,185,South Africa,96,Guinea-Bissau,0.9524390243902439,Canada,272119837343.0,Thailand,845386402944.0,Australia,6264564621.0,European Union,6300989840.0
+5,Japan,184,Spain,96,Equatorial Guinea,0.9503214494447692,Mexico,271483673750.0,Australia,501348821370.0,Chile,5181412040.0,"Hong Kong, China",5774932793.0
+6,"Korea, Republic of",184,Thailand,96,Lesotho,0.948018648018648,Germany,262590906527.0,Mexico,469417917124.0,Thailand,5151326150.0,"Saudi Arabia, Kingdom of",5154078547.0
+7,Singapore,184,United Kingdom,96,Timor-Leste,0.9469387755102041,Chinese Taipei,248341216315.0,"Hong Kong, China",395500002014.0,New Zealand,4107663429.0,Singapore,3505545098.0
+8,Mexico,184,United States of America,96,Saint Lucia,0.9447938504542278,Russian Federation,216253191159.0,Singapore,358054775514.0,Spain,4099739989.0,Kazakhstan,1622154001.0
+9,New Zealand,184,Belgium,96,Djibouti,0.942548076923077,Malaysia,212907306640.0,"Korea, Republic of",312327264165.0,India,2553040544.0,China,1402680588.0
